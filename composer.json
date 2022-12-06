@@ -2,7 +2,7 @@
     "name": "creativeit/kafka-queue",
     "description": "I am creating a new kafka-queue composer package for reusable",
     "require": {
-        "laravel/framework": "^9.42"
+        "laravel/framework": "^8.83"
     },
     "autoload": {
         "psr-4": {
